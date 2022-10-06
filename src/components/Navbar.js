@@ -7,7 +7,7 @@ const Navbar = () => {
   const { favoritePokemons } = useContext(FavoriteContext);
 
   let imgUrl =
-    "https://raw.githubusercontent.com/PokeAPI/media/master/logo/pokeapi_256.png";
+    "https://fontmeme.com/permalink/221006/b478e0d0730d73407784c58775033342.png";
 
   return (
     <nav>
